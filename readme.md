@@ -1,0 +1,2 @@
+
+# Codice per elaborare stagionali
